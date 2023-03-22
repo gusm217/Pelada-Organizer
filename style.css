@@ -1,0 +1,12 @@
+label,
+input,
+button {
+  display: block;
+  margin: 10px 0;
+}
+
+.player-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
